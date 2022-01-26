@@ -1,3 +1,51 @@
 body {
-    background: lightseagreen;
+    margin: 0;
+    background-color: #FDF4DC;
   }
+
+h1 {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: 100;
+}
+
+nav {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: 100;
+}
+
+a {
+  padding: 10px;
+}
+
+h2 {
+  font-size:  20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: 100;
+}
+
+header {
+  margin-left: 30px;
+}
+
+nav {
+  margin-left: 30px;
+}
+
+img {
+  width: 400px;
+}
+
+.columns {
+  margin: 40px auto;
+  width: 1260px;
+  display: flex;
+  /* background-color: #AEE2D3; */
+}
+
+.column {
+  margin: 0 10px;
+}
